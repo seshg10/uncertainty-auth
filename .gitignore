@@ -1,0 +1,24 @@
+# Inference outputs and cached data (can be large / sensitive)
+data/
+
+# Generated plots
+plots/
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
